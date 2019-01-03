@@ -1,7 +1,7 @@
 HtmlToMarkDown
 ==============
 
-A HTML to Markdown converter in C#
+A HTML to Markdown converter in C# base on https://github.com/erossini/MarkdownMaker
 
 Usage
 =====
